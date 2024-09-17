@@ -1,0 +1,42 @@
+[0.818s] Invoking command in '/home/rfal/ros2_ws/src/py_srvcli': PYTHONPATH=/home/rfal/ros2_ws/src/py_srvcli/build/py_srvcli/prefix_override:/home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/py_srvcli build --build-base /home/rfal/ros2_ws/src/py_srvcli/build/py_srvcli/build install --record /home/rfal/ros2_ws/src/py_srvcli/build/py_srvcli/install.log --single-version-externally-managed install_data
+[1.140s] running egg_info
+[1.140s] creating build/py_srvcli/py_srvcli.egg-info
+[1.141s] writing build/py_srvcli/py_srvcli.egg-info/PKG-INFO
+[1.141s] writing dependency_links to build/py_srvcli/py_srvcli.egg-info/dependency_links.txt
+[1.141s] writing entry points to build/py_srvcli/py_srvcli.egg-info/entry_points.txt
+[1.142s] writing requirements to build/py_srvcli/py_srvcli.egg-info/requires.txt
+[1.142s] writing top-level names to build/py_srvcli/py_srvcli.egg-info/top_level.txt
+[1.142s] writing manifest file 'build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[1.145s] reading manifest file 'build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[1.145s] adding license file 'LICENSE'
+[1.146s] writing manifest file 'build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[1.146s] running build
+[1.147s] running build_py
+[1.147s] creating /home/rfal/ros2_ws/src/py_srvcli/build/py_srvcli/build
+[1.147s] creating /home/rfal/ros2_ws/src/py_srvcli/build/py_srvcli/build/lib
+[1.147s] creating /home/rfal/ros2_ws/src/py_srvcli/build/py_srvcli/build/lib/py_srvcli
+[1.147s] copying py_srvcli/client_member_function.py -> /home/rfal/ros2_ws/src/py_srvcli/build/py_srvcli/build/lib/py_srvcli
+[1.148s] copying py_srvcli/service_member_function.py -> /home/rfal/ros2_ws/src/py_srvcli/build/py_srvcli/build/lib/py_srvcli
+[1.148s] copying py_srvcli/__init__.py -> /home/rfal/ros2_ws/src/py_srvcli/build/py_srvcli/build/lib/py_srvcli
+[1.148s] running install
+[1.148s] running install_lib
+[1.150s] creating /home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/lib/python3.10/site-packages/py_srvcli
+[1.150s] copying /home/rfal/ros2_ws/src/py_srvcli/build/py_srvcli/build/lib/py_srvcli/client_member_function.py -> /home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/lib/python3.10/site-packages/py_srvcli
+[1.150s] copying /home/rfal/ros2_ws/src/py_srvcli/build/py_srvcli/build/lib/py_srvcli/service_member_function.py -> /home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/lib/python3.10/site-packages/py_srvcli
+[1.150s] copying /home/rfal/ros2_ws/src/py_srvcli/build/py_srvcli/build/lib/py_srvcli/__init__.py -> /home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/lib/python3.10/site-packages/py_srvcli
+[1.151s] byte-compiling /home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/lib/python3.10/site-packages/py_srvcli/client_member_function.py to client_member_function.cpython-310.pyc
+[1.152s] byte-compiling /home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/lib/python3.10/site-packages/py_srvcli/service_member_function.py to service_member_function.cpython-310.pyc
+[1.153s] byte-compiling /home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/lib/python3.10/site-packages/py_srvcli/__init__.py to __init__.cpython-310.pyc
+[1.153s] running install_data
+[1.153s] creating /home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/share/ament_index
+[1.153s] creating /home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/share/ament_index/resource_index
+[1.154s] creating /home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/share/ament_index/resource_index/packages
+[1.154s] copying resource/py_srvcli -> /home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/share/ament_index/resource_index/packages
+[1.154s] copying package.xml -> /home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/share/py_srvcli
+[1.154s] running install_egg_info
+[1.157s] Copying build/py_srvcli/py_srvcli.egg-info to /home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/lib/python3.10/site-packages/py_srvcli-0.0.0-py3.10.egg-info
+[1.158s] running install_scripts
+[1.185s] Installing client script to /home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/lib/py_srvcli
+[1.185s] Installing service script to /home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/lib/py_srvcli
+[1.186s] writing list of installed files to '/home/rfal/ros2_ws/src/py_srvcli/build/py_srvcli/install.log'
+[1.217s] Invoked command in '/home/rfal/ros2_ws/src/py_srvcli' returned '0': PYTHONPATH=/home/rfal/ros2_ws/src/py_srvcli/build/py_srvcli/prefix_override:/home/rfal/ros2_ws/src/py_srvcli/install/py_srvcli/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/py_srvcli build --build-base /home/rfal/ros2_ws/src/py_srvcli/build/py_srvcli/build install --record /home/rfal/ros2_ws/src/py_srvcli/build/py_srvcli/install.log --single-version-externally-managed install_data
